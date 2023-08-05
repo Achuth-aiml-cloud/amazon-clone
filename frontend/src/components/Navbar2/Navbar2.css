@@ -1,0 +1,28 @@
+.category-container{
+    background-color: #232F3E;
+    padding: 10px 18px;
+    font-weight: 500;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+  }
+  
+  .category-container ul{
+    list-style-type: none;
+  }
+  
+  .category-container ul li{
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .category-container ul li a{
+    white-space: nowrap;
+    font-size: 18px;
+  }
+
+  .last_row{
+    /* margin-left: 70px; */
+    right:0;
+  }

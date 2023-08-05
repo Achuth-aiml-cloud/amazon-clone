@@ -1,1 +1,2 @@
 # Amazon-clone using React JS
+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
